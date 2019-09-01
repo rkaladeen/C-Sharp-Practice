@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rkala\\Dropbox\\c#.net\\firstCSharp\\firstCSharp.csproj",
-      "projectName": "firstCSharp",
-      "projectPath": "C:\\Users\\rkala\\Dropbox\\c#.net\\firstCSharp\\firstCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\rkala\\Dropbox\\c#.net\\Practice\\Fundamental_1\\Fundamental_1.csproj",
+      "projectName": "Fundamental_1",
+      "projectPath": "C:\\Users\\rkala\\Dropbox\\c#.net\\Practice\\Fundamental_1\\Fundamental_1.csproj",
       "packagesPath": "C:\\Users\\rkala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rkala\\Dropbox\\c#.net\\firstCSharp\\obj\\",
+      "outputPath": "C:\\Users\\rkala\\Dropbox\\c#.net\\Practice\\Fundamental_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

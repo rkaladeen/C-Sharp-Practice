@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace firstCSharp
+namespace Fundamental_1
 {
   class Program
   {
@@ -13,26 +13,27 @@ namespace firstCSharp
       // fizzBuzz();
     }
 
-    static void loop255() 
+    static void loop255()
     {
       int start = 1;
       int stop = 255;
-      for (int i = start; i <= stop; i++) 
+      for (int i = start; i <= stop; i++)
       {
         Console.WriteLine(i);
       }
     }
 
-    static void div3or5() 
+    static void div3or5()
     {
       int start = 1;
       int stop = 100;
       for (int i = start; i <= stop; i++)
       {
-        if (i % 3 == 0) 
+        if (i % 3 == 0)
         {
           Console.WriteLine(i);
-        } else if (i % 5 == 0) 
+        }
+        else if (i % 5 == 0)
         {
           Console.WriteLine(i);
         }
