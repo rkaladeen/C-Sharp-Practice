@@ -1,0 +1,11 @@
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\bin\Debug\netcoreapp2.2\Fundamental_1.deps.json
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\bin\Debug\netcoreapp2.2\Fundamental_1.runtimeconfig.json
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\bin\Debug\netcoreapp2.2\Fundamental_1.runtimeconfig.dev.json
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\bin\Debug\netcoreapp2.2\Fundamental_1.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\bin\Debug\netcoreapp2.2\Fundamental_1.pdb
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\obj\Debug\netcoreapp2.2\Fundamental_1.csprojAssemblyReference.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\obj\Debug\netcoreapp2.2\Fundamental_1.csproj.CoreCompileInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\obj\Debug\netcoreapp2.2\Fundamental_1.AssemblyInfoInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\obj\Debug\netcoreapp2.2\Fundamental_1.AssemblyInfo.cs
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\obj\Debug\netcoreapp2.2\Fundamental_1.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\Fundamental_1\obj\Debug\netcoreapp2.2\Fundamental_1.pdb
