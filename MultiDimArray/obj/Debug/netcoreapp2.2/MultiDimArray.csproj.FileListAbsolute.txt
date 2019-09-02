@@ -1,0 +1,11 @@
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\bin\Debug\netcoreapp2.2\MultiDimArray.deps.json
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\bin\Debug\netcoreapp2.2\MultiDimArray.runtimeconfig.json
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\bin\Debug\netcoreapp2.2\MultiDimArray.runtimeconfig.dev.json
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\bin\Debug\netcoreapp2.2\MultiDimArray.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\bin\Debug\netcoreapp2.2\MultiDimArray.pdb
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\obj\Debug\netcoreapp2.2\MultiDimArray.csprojAssemblyReference.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\obj\Debug\netcoreapp2.2\MultiDimArray.csproj.CoreCompileInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\obj\Debug\netcoreapp2.2\MultiDimArray.AssemblyInfoInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\obj\Debug\netcoreapp2.2\MultiDimArray.AssemblyInfo.cs
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\obj\Debug\netcoreapp2.2\MultiDimArray.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\MultiDimArray\obj\Debug\netcoreapp2.2\MultiDimArray.pdb
