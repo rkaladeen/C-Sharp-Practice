@@ -1,0 +1,11 @@
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\bin\Debug\netcoreapp2.2\puzzles.deps.json
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\bin\Debug\netcoreapp2.2\puzzles.runtimeconfig.json
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\bin\Debug\netcoreapp2.2\puzzles.runtimeconfig.dev.json
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\bin\Debug\netcoreapp2.2\puzzles.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\bin\Debug\netcoreapp2.2\puzzles.pdb
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\obj\Debug\netcoreapp2.2\puzzles.csprojAssemblyReference.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\obj\Debug\netcoreapp2.2\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\obj\Debug\netcoreapp2.2\puzzles.AssemblyInfoInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\obj\Debug\netcoreapp2.2\puzzles.AssemblyInfo.cs
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\obj\Debug\netcoreapp2.2\puzzles.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\puzzles\obj\Debug\netcoreapp2.2\puzzles.pdb
