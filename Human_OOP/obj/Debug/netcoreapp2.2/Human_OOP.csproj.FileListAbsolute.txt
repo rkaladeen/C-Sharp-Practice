@@ -1,0 +1,11 @@
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\obj\Debug\netcoreapp2.2\Human_OOP.csprojAssemblyReference.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\obj\Debug\netcoreapp2.2\Human_OOP.csproj.CoreCompileInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\obj\Debug\netcoreapp2.2\Human_OOP.AssemblyInfoInputs.cache
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\obj\Debug\netcoreapp2.2\Human_OOP.AssemblyInfo.cs
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\bin\Debug\netcoreapp2.2\Human_OOP.deps.json
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\bin\Debug\netcoreapp2.2\Human_OOP.runtimeconfig.json
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\bin\Debug\netcoreapp2.2\Human_OOP.runtimeconfig.dev.json
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\bin\Debug\netcoreapp2.2\Human_OOP.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\bin\Debug\netcoreapp2.2\Human_OOP.pdb
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\obj\Debug\netcoreapp2.2\Human_OOP.dll
+C:\Users\rkala\Dropbox\c#.net\Practice\Human_OOP\obj\Debug\netcoreapp2.2\Human_OOP.pdb
