@@ -1,12 +1,9 @@
 ﻿using System;
 
-namespace HungryNinja
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+namespace HungryNinja {
+  class Program {
+    static void Main(string[] args) {
+      
     }
+  }
 }
